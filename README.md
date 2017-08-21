@@ -12,11 +12,11 @@
 
 #Hamza
  * Chicken Burger   7$    
- ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pJibV3keTTg8zrylf8axbenIyjc5Ub68kZ-hM0U37mNeov_SfQ)
+ ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
  * Chicken Ceasar Burger  8$   
- ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4V8F6HoNE4ChGmnflubyOmF71_vj7YK0hdAwGSBtSRFAjBDr1Bg)
+ ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
  * Canyon Creek Burger    9$   
- ![Alt Text](http://dillankebab.com/wp-content/uploads/2014/07/Burgers-GDL-Spicy-Chicken-ME.jpg)
+ ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
 
 # Masa
 * Chicken Wings 5$ ![Chicken Wings](http://thewoksoflife.com/wp-content/uploads/2017/04/fish-sauce-chicken-wings-13.jpg)
@@ -27,9 +27,9 @@
 
 
 # Haneens menu
-![food](https://s3.envato.com/files/200433990/Preview%20Images%20Set/Food%20Menu%20Trifold%20Brochure%20Vol.01%20-%20Back-01.jpg)                   salad           4$
-![food](https://s3.envato.com/files/200433990/Preview%20Images%20Set/Food%20Menu%20Trifold%20Brochure%20Vol.01%20-%20Back-01.jpg)                   cheess cake     3$
-![food](https://s3.envato.com/files/200433990/Preview%20Images%20Set/Food%20Menu%20Trifold%20Brochure%20Vol.01%20-%20Back-01.jpg)                   falafel         3$
+![food](http://jetspizza.com/dbphotos/display/3ac462ac8961d463b8d5a765ce7535f1/664/410)                   salad           4$
+![food](http://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/12/9/0/FNK_Cheesecake_s4x3.jpg.rend.hgtvcom.616.462.suffix/1387411272847.jpeg)                   cheess cake     3$
+![food](https://static01.nyt.com/images/2013/10/23/dining/23JPFLEX2/23JPFLEX2-superJumbo.jpg)                   falafel         3$
 
  ## majd 
 ## small purger  30$
