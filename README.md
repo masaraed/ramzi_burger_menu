@@ -19,11 +19,12 @@
  ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
 
 # Masa
-* Chicken Wings ![Chicken Wings](http://thewoksoflife.com/wp-content/uploads/2017/04/fish-sauce-chicken-wings-13.jpg)
+* Chicken Wings 5$ ![Chicken Wings](http://thewoksoflife.com/wp-content/uploads/2017/04/fish-sauce-chicken-wings-13.jpg)
 
-* Potato Chips ![Potato Chips](http://global-cdn.skinnyms.com/wp-content/uploads/2012/04/Sweet-Potato-Chips-1.jpg)
+* Potato Chips 7$ ![Potato Chips](http://global-cdn.skinnyms.com/wp-content/uploads/2012/04/Sweet-Potato-Chips-1.jpg)
 
-* Arabic Salad ![Arabic Salad](https://upload.wikimedia.org/wikipedia/commons/9/93/Fattoush_mixed-salad.jpg)
+* Arabic Salad 10$ ![Arabic Salad](https://upload.wikimedia.org/wikipedia/commons/9/93/Fattoush_mixed-salad.jpg)
+
 
 # Haneens menu
 ![food](https://s3.envato.com/files/200433990/Preview%20Images%20Set/Food%20Menu%20Trifold%20Brochure%20Vol.01%20-%20Back-01.jpg)                   salad           4$
