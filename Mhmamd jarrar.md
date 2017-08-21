@@ -7,8 +7,8 @@
 * Hello 
 * give me a million reason
 
-'''
+```
 for( var point =0; point<=100; i++){
 	console.log("here you can do the action")
 } 
-'''
+```
