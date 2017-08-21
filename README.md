@@ -12,11 +12,11 @@
 
 #Hamza
  * Chicken Burger   7$    
- ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
+ ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pJibV3keTTg8zrylf8axbenIyjc5Ub68kZ-hM0U37mNeov_SfQ)
  * Chicken Ceasar Burger  8$   
- ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
+ ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOq_8jNUXpbrZKGRkkcAZFOuoOwpcbNRRvhB2TJ6vL4JluUBHQ)
  * Canyon Creek Burger    9$   
- ![Alt Text](https://scontent.fjrs2-1.fna.fbcdn.net/v/t1.0-1/12715490_10204020748678760_1612831134533411211_n.jpg?oh=045b289509bddaa0244f23ef825f7f65&oe=5A1A577A)
+ ![Alt Text](http://dillankebab.com/wp-content/uploads/2014/07/Burgers-GDL-Spicy-Chicken-ME.jpg)
 
 # Masa
 * Chicken Wings 5$ ![Chicken Wings](http://thewoksoflife.com/wp-content/uploads/2017/04/fish-sauce-chicken-wings-13.jpg)
